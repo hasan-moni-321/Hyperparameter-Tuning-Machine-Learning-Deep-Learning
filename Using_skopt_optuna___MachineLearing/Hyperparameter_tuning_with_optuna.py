@@ -64,26 +64,3 @@ if __name__ == "__main__":
    
     study = optuna.create_study(direction='minimize')
     study.optimize(optimization_function, n_trials=15)
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-
-
